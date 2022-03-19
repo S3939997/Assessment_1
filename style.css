@@ -1,24 +1,26 @@
 img {
-width: 25%;
-height: 25%;
+width: 33%;
+height: 33%;
 display: block;
 margin-left: auto;
 margin-right: auto;
 }
 
 body {
-  background-color: #A0ACAD;
+  background-color: #D765F7;
+  padding: 0 50px;
 }
 
 h1, h2 {
-  color: #170312;
+  color: #2F0525;
   text-align: center;
+  font-family: verdana;
 }
 
 h3, h4, dt {
 	color: #33032F;
-    font-size: 20px;
-    font-family: verdana;
+  font-size: 20px;
+  font-family: verdana;
 }
 
 p, dd {
@@ -29,4 +31,5 @@ p, dd {
 
 article {
   border-style: outset;
+  padding: 50px 50px
 }
