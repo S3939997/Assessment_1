@@ -3,7 +3,27 @@ width: 25%;
 height: 25%;
 }
 
-background: #574AE2;
-background: -moz-linear-gradient(left, #574AE2 0%, #222A68 50%, ##654597 100%);
-background: -webkit-linear-gradient(left, #574AE2 0%, #222A68 50%, ##654597 100%);
-background: linear-gradient(to right, #574AE2 0%, #222A68 50%, ##654597 100%);
+body {
+  background-color: #574AE2;
+}
+
+h1, h2 {
+  color: #222A68;
+  text-align: center;
+}
+
+h3, h4 {
+	color: #AB81CD;
+    font-size: 20px;
+    font-family: verdana;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  color: #E2ADF2;
+}
+
+article {
+  p.outset {border-style: outset;}
+}
