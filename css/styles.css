@@ -2,3 +2,8 @@ img {
 width: 25%;
 height: 25%;
 }
+
+background: #574AE2;
+background: -moz-linear-gradient(left, #574AE2 0%, #222A68 50%, ##654597 100%);
+background: -webkit-linear-gradient(left, #574AE2 0%, #222A68 50%, ##654597 100%);
+background: linear-gradient(to right, #574AE2 0%, #222A68 50%, ##654597 100%);
